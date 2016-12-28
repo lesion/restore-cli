@@ -1,0 +1,30 @@
+{
+  "name": "restore-bin",
+  "description": "Simple remoteStorage server cli",
+  "homepage": "http://github.com/lesion/restore-cli",
+  "author": "<lesion@autistici.org>",
+  "keywords": [
+    "remoteStorage",
+    "webfinger",
+    "oauth",
+    "webdav"
+  ],
+  "license": "MIT",
+  "version": "0.3.0",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "bin": {
+    "restore": "./server.js"
+  },
+  "dependencies": {
+    "argparse": "^1.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lesion/restore-cli.git"
+  },
+  "bugs": {
+    "url": "http://github.com/lesion/restore-cli/issues"
+  }
+}
