@@ -1,5 +1,5 @@
 {
-  "name": "restore-bin",
+  "name": "restore-cli",
   "description": "Simple remoteStorage server cli",
   "homepage": "http://github.com/lesion/restore-cli",
   "author": "<lesion@autistici.org>",
