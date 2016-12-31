@@ -59,7 +59,7 @@ var remoteStorageServer = {
     process.umask(077)
     var store = new reStore.FileTree({path: conf.storage_path});
     var server = new reStore({
-      basePath: conf.basePath,
+      basePath: conf.base_path,
       store,
       http: {
         host: conf.http.host,
