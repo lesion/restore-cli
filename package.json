@@ -10,7 +10,7 @@
     "webdav"
   ],
   "license": "MIT",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "engines": {
     "node": ">=0.8.0"
   },
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "argparse": "^1.0.7",
-    "restore": "lesion/restore#baseURL"
+    "restore": "lesion/restore"
   },
   "repository": {
     "type": "git",
